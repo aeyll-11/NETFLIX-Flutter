@@ -2,7 +2,7 @@
 
 This is my first project on Flutter.
 
-The Subject was to make a MovieApp.
+The Subject was to make a Movie App.
 On the HomeScreen we should be able to display Movies with Horizontal Slider.
 Each movie display onTap the title, an image, the genre and the description on an other page.
 
@@ -13,7 +13,22 @@ My Project Goals :
 - Recreate the Netflix IU from Scratch ☑ ;
 - Doing App i could keep Working on and Update on my Dev Journey ☑ ;
 
-Advice are Welcome ;
+Advice are Welcome.
+
+Ceci est mon Premier Projet sur Flutter
+
+Le Sujet etait de mettre une Movie App.
+Sur la HomeScreen, on récupérera tous les films, puis on les affichera sous formes d’un carrousel, qu’on pourra scroller horizontalement.
+Chaque film de la liste devras afficher sur une Nouvelle page le titre, Une Image ainsi que le genre et le resumé du film.
+
+Une UI est attendue. J'ai choisi de recréer L'interface de Netflix pour le projet.
+
+Mes Objectifs du Projet:
+- Avoir une Bonne Compréhension des fonctions de base de Flutter et de la Synthax ☑ ;
+- Recréer l'interface de Netflix De 0 ☑ ;
+- Créer une Application sur laquelle je pourrais travailler et mettre à jour régulierement ☑ ;
+
+Vos Conseils sont Bienvenue.
 
 ## Getting Started
 
