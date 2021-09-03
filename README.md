@@ -2,11 +2,18 @@
 
 This is my first project on Flutter.
 
-The Subject was to make an Movie App.
+The Subject was to make a MovieApp.
 On the HomeScreen we should be able to display Movies with Horizontal Slider.
 Each movie display onTap the title, an image, the genre and the description on an other page.
 
-An IU was excepted. I choose to recreate IU Netflix for the Project.
+An IU was excepted. I choose to recreate Netflix IU for the Project.
+
+My Project Goals :
+- Getting a good understanding of Flutter basic functions and synthax ☑ ;
+- Recreate the Netflix IU from Scratch ☑ ;
+- Doing App i could keep Working on and Update on my Dev Journey ☑ ;
+
+Advice are Welcome ;
 
 ## Getting Started
 
