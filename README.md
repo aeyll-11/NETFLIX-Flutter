@@ -15,7 +15,8 @@ My Project Goals :
 
 Advice are Welcome.
 
-![Netflix_1_flutter](https://user-images.githubusercontent.com/86724849/132139275-f74fc7ce-89e7-46be-9365-1617b4946ed1.PNG),![Netlfi_2_flutter](https://user-images.githubusercontent.com/86724849/132139280-a66f10e7-35c2-4341-92d6-71298ea3427e.PNG)
+![Netflix_1_flutter](https://user-images.githubusercontent.com/86724849/132139275-f74fc7ce-89e7-46be-9365-1617b4946ed1.PNG),![Netlfi_2_flutter](https://user-images.githubusercontent.com/86724849/132139280-a66f10e7-35c2-4341-92d6-71298ea3427e.PNG),![Detail_Screen_Flutter](https://user-images.githubusercontent.com/86724849/132139347-81178a8e-7930-42a6-8aab-e8077f107d1a.PNG)
+
 
 
 Ceci est mon Premier Projet sur Flutter
